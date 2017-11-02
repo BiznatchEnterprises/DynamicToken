@@ -13,8 +13,8 @@ Rare dynamic crypto-asset (theory)
 
 # Unique Identifier
 - 0-9   = 10
-- a-b   = 26
-- A-B   = 26
+- a-z   = 26
+- A-Z   = 26
 - Chars = 62
 - Token ID = 3 chars long  ex: 9Ax
 

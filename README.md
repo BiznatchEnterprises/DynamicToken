@@ -24,8 +24,8 @@ General Public License 3.0
 # P2P Database Format
 - Token:      id, timestamp, minerid
 - Mining Validation:  txtid, timestamp, tokenid, validation1-hash, validation1-user, validation999-hash, validation999-user
-- Token Transfers:      txtid, timestamp, amount, from, to-1, to-2, to-3, to-999
-- Transfer Validation:  txtid, timestamp, amount, validation1-hash, validation1-user, validation999-hash, validation999-user
+- Token Transfers:      txtid, timestamp, gross-amount, net-amount, from, to-1, to-2, to-3, to-999
+- Transfer Validation:  txtid, timestamp, fee-amountpervalidation, validation1-hash, validation1-user, validation999-hash, validation999-user
 - Automated Transfers:  contractid, created timestamp, execute timestamp, from, amount, to-1, to-2, to-3, to-999 
 
 # Contribute to development

@@ -2,6 +2,7 @@
 Rare dynamic crypto-asset (theory)
 
 © 2017 Biznatch Enterprises 
+
 License: General Public License 3.0
 
 # General Stats

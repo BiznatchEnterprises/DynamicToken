@@ -28,6 +28,7 @@ General Public License 3.0
 - Transfer Validation:  txtid, timestamp, amount, validation1-hash, validation1-user, validation999-hash, validation999-user
 - Automated Transfers:  contractid, created timestamp, execute timestamp, from, amount, to-1, to-2, to-3, to-999 
 
-
+# Contribute to development
+- Bitcoin: 149zvsiUMGfRxu3Z3wn2rUNX5Jk6HtEbPu
 
 [A work in progress]

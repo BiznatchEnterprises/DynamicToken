@@ -4,7 +4,7 @@ Rare dynamic crypto-asset (theory)
 © 2017 Biznatch Enterprises
 
 # General Stats
-- Max unique tokens = 238328 (62^3)
+- Max unique tokens/coins = 238328 (62^3)
 - Max daily inflation = 72
 - Max hourly inflation = 3 
 - 238328÷72÷72 = 3310.111111111   Days to "mine/find" all tokens

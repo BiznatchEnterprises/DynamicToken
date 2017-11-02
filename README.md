@@ -12,6 +12,7 @@ General Public License 3.0
 - 238328÷72 = 3310.111111111   Days to "mine/find" all tokens
 - 3310.111111111 ÷ 365 = 9.068797565 Years to "mine/find" all tokens
 - Divisible up to 7 decimal points
+- Total units: 10^7 = 10000000×238328 = 2.38328×10¹²
 
 # Unique Identifier
 - 0-9   = 10

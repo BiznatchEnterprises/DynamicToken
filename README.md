@@ -22,7 +22,7 @@ Rare dynamic crypto-asset (theory)
 - Token:      id, timestamp, minerid
 - Token Transfers:      txtid, timestamp, amount, from, to-1, to-2, to-3, to-999
 - Transfer Validation:  txtid, timestamp, amount, validation1-hash, validation1-user, validation999-hash, validation999-user
-- Automated Transfers:  contractid, timestamp, from, amount, to-1, to-2, to-3, to-999 
+- Automated Transfers:  contractid, created timestamp, execute timestamp, from, amount, to-1, to-2, to-3, to-999 
 
 
 

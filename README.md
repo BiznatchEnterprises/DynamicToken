@@ -7,8 +7,8 @@ Rare dynamic crypto-asset (theory)
 - Max unique tokens = 238328 (62^3)
 - Max daily inflation = 72
 - Max hourly inflation = 3 
-- 238328÷72÷72 = 3310.111111111   Days to mine all tokens
-- 3310.111111111 ÷ 365 = 9.068797565 Years to "mine" all tokens
+- 238328÷72÷72 = 3310.111111111   Days to "mine/find" all tokens
+- 3310.111111111 ÷ 365 = 9.068797565 Years to "mine/find" all tokens
 - Divisible up to 7 decimal points
 
 # Unique Identifier

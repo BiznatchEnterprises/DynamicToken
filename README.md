@@ -1,7 +1,8 @@
 # Dynamic Token 1.0
 Rare dynamic crypto-asset (theory)
 
-© 2017 Biznatch Enterprises
+© 2017 Biznatch Enterprises 
+License: General Public License 3.0
 
 # General Stats
 - Max unique tokens/coins = 238328 (62^3)

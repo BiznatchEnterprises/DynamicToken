@@ -1,8 +1,7 @@
 # Dynamic Token 1.0
 Rare dynamic crypto-asset (theory)
-© 2017 Biznatch Enterprises
 
-[A work in progress]
+© 2017 Biznatch Enterprises
 
 # General Stats
 - Max unique tokens = 238328 (62^3)
@@ -24,3 +23,7 @@ Rare dynamic crypto-asset (theory)
 - Token Transfers      txtid, timestamp, amount, from, to-1, to-2, to-3, to-999
 - Transfer Validation  txtid, timestamp, amount, validation1-hash, validation1-user, validation999-hash, validation999-user
 - Automated Transfers  contractid, timestamp, from, amount, to-1, to-2, to-3, to-999 
+
+
+
+[A work in progress]

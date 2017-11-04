@@ -28,6 +28,10 @@ General Public License 3.0
 - Transfer Validation:  txtid, timestamp, fee-amountpervalidation, validation1-hash, validation1-user, validation999-hash, validation999-user
 - Automated Transfers:  contractid, created timestamp, execute timestamp, from, amount, to-1, to-2, to-3, to-999 
 
+# The need for efficient digital asset transfers
+
+"Each Bitcoin transfer represents enough energy to run a comfortable house, and everything in it, for nearly a week." - https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change?utm_source=mbfb%3Futm_campaign%3Dsharebutton
+
 # Contribute to development
 - Bitcoin: 149zvsiUMGfRxu3Z3wn2rUNX5Jk6HtEbPu
 
